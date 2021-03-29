@@ -13,9 +13,15 @@ Plot distribution of the numerical features examine the skewness Plot correlatio
 
 - Remove skewenes of target features 
 - Handle missing values in categorical features 
-- Handling Categorical features
+- Transformation some categorical features (with specific order) into numerical
+- Transformation of some numerical features that are actually categorical: ['MSSubClass', 'OverallCond’]
 - Handle missing values in numerical features 
 - Feature selection
+- One-Hot Encoding for categorical data
+- Transformation of skewed features:
+      - SalePrice – log transformation
+      - Other features with skeweness > 0.5 using BoxCox transformation
+
 
 3. Feature Engineering: Engineering new features
 
@@ -25,4 +31,8 @@ Plot distribution of the numerical features examine the skewness Plot correlatio
 Hasnae Talibi
 
 
+Transformation of skewed features:
+SalePrice – log transformation
+Other features with skeweness > 0.5 using BoxCox transformation
+Transformation some categorical features (with specific order) into numerical
 
