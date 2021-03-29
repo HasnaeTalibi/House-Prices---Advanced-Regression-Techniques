@@ -11,10 +11,11 @@ Plot distribution of the numerical features examine the skewness Plot correlatio
 
 2. cleaning Data: Cleaning and preprocessing of data
 
-remove skewenes of target features 
-handle missing values in categorical features 
-handle missing values in numerical features 
-feature selection
+- Remove skewenes of target features 
+- Handle missing values in categorical features 
+- Handling Categorical features
+- Handle missing values in numerical features 
+- Feature selection
 
 3. Feature Engineering: Engineering new features
 
