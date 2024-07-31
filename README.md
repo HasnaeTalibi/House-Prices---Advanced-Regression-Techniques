@@ -1,7 +1,3 @@
-Bonjour Cynthia,
-
-En effet, les SPMS jumeaux qui ont été validés nécessitent une mise à jour. Il faut ressortir à nouveau les SPMS jumeaux des 5 SPMs qui ont été remplacés. La nouvelle liste vous sera envoyée la semaine prochaine.
-
 
 
 # House-Prices---Advanced-Regression-Techniques
